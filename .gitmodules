@@ -1,0 +1,3 @@
+[submodule "rails-pack/lib/rinari"]
+	path = rails-pack/lib/rinari
+	url = https://github.com/pyraz/rinari.git
